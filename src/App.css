@@ -1,0 +1,26 @@
+.App {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%)
+}
+
+#text-field input[type="text"] {
+  width: 40rem;
+  height: 2rem;
+  padding-right: 4rem;
+}
+
+
+#text-field input[type="button"] {
+  width: 4rem;
+  height: 2.4rem;
+  margin-left: -4rem;
+  padding: 0;
+}
+
+
+#checkbox input {
+  margin-top: 2em;
+  margin-right: 0.5em;
+}
